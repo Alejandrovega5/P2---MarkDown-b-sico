@@ -17,3 +17,7 @@ La sostenibilidad es usar los recursos de manera responsable para cuidar el plan
 | 3      |  Protección medio ambiente|
 
 ![Texto alternativo](assets/ods.png)
+
+* [x] Usar equipos eficientes y duraderos.
+* [x] Optimizar el consumo energético de dispositivos.
+* [ ] Reciclar y reutilizar hardware.
