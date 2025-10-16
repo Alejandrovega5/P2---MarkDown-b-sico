@@ -9,3 +9,7 @@ La sostenibilidad es usar los recursos de manera responsable para cuidar el plan
 3. Económica.
 
 > ONU
+
+| Nº ODS| Nombre ODS|
+| ----- | --------- |
+| 9     | La educación|
