@@ -14,5 +14,4 @@ La sostenibilidad es usar los recursos de manera responsable para cuidar el plan
 | ----- | --------- |
 | 9     | La educación|
 | 4     | La salud    |
-| ------ |            |
 | 3      |  Protección medio ambiente|
