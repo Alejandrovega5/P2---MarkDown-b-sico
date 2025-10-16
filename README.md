@@ -10,12 +10,12 @@ Markdown es un **lenguaje de marcas ligero** que permite escribir documentos de 
 * Es **fácil de leer** incluso sin procesar.
 * Se puede **convertir a PDF, HTML, Word** o publicarse como web.
 
-### Extensiones habituales
+#### Extensiones habituales
 
 * **`.md`** → la más común.
 * **`.markdown`** → alternativa menos usada.
 
-### Sintaxis básica
+#### Sintaxis básica
 
 ````md
 # Encabezado nivel 1
@@ -50,27 +50,27 @@ print("Bloque de código en Python")
 
 ---
 
-## 2. Cómo visualizar documentos Markdown  
+### 2. Cómo visualizar documentos Markdown  
 Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:  
 
-### Plataformas online
+#### Plataformas online
 - **GitHub / GitLab / Bitbucket**: muestran automáticamente los `README.md`.  
 - **Stack Overflow, Reddit**: usan sintaxis Markdown en sus posts.  
 - **Notion, Obsidian, Joplin**: gestores de notas basados en Markdown.  
 
-### Editores de código
+#### Editores de código
 - **Visual Studio Code**: `Ctrl+Shift+V` o `Cmd+Shift+V` en Mac.  
 - **IntelliJ IDEA / PyCharm / Android Studio**: soporte nativo.  
 - **Atom, Sublime Text** con plugins.  
 
-### Aplicaciones de notas
+#### Aplicaciones de notas
 - **Typora**, **Obsidian**, **Joplin**, **Zettlr**, **Mark Text**.  
 
-### Convertidores / generadores
+#### Convertidores / generadores
 - **Pandoc** → de `.md` a PDF, DOCX, HTML.  
 - **MkDocs, Docusaurus, Jekyll** → webs estáticas con Markdown.  
 
-### Navegador web
+#### Navegador web
 - Extensiones de Chrome/Firefox para renderizar `.md`.  
 - Algunos navegadores modernos muestran un estilo básico.  
 
@@ -78,9 +78,9 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 ---
 
-## 3. Ejercicio propuesto  
+### 3. Ejercicio propuesto  
 
-### Tarea del alumno
+#### Tarea del alumno
 1. Crea un fichero llamado `sostenibilidad.md`.  
 2. Incluye dentro:  
    - Un **encabezado**: `# Introducción a la Sostenibilidad`.  
@@ -93,20 +93,20 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 ---
 
-## ENTREGA DE LA TAREA:
+### ENTREGA DE LA TAREA:
 
 - El enlace a tu repositorio *(recuerda que debe ser público, para que yo pueda visualizarlo)*
 - El documento Markdown que has creado *(`sostenibilidad.md`)*. Para ello, debes descargar el archivo desde el repositorio hasta tu almacenamiento local, para posteriormente subirlo a Moodle.
 - El **PDF** que has exportado utilizando **una de estas dos herramientas online** *(elige la que prefieras)*:
 
-### 1. [StackEdit](https://stackedit.io)
+#### 1. [StackEdit](https://stackedit.io)
 
 * Abre tu archivo o copia el texto dentro del editor.
 * Haz clic en el **icono de Export** (es un cuadrado con una flecha hacia fuera, arriba a la derecha).
 * Selecciona **Download PDF**.
 * Alternativa: Export → Print → y en la impresora elegir **Guardar como PDF**.
 
-### 2. [Dillinger](https://dillinger.io)
+#### 2. [Dillinger](https://dillinger.io)
 
 * Abre tu archivo o escribe directamente en el editor.
 * Haz clic en el menú superior **Export**.
@@ -114,7 +114,7 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 ---
 
-## IMPORTANTE - Pasos finales y edición del README.
+### IMPORTANTE - Pasos finales y edición del README.
 
 1. Revisa la vista previa para comprobar que tu documento `sostenibilidad.md` se ve correctamente *(encabezados, listas, tablas, citas, imagen)*.
 2. Descarga y exporta los documentos que necesites para posteriormente subirlos a **Moodle**, tal y como se solicita en la práctica.
