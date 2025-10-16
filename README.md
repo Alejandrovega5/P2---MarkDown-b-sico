@@ -8,4 +8,4 @@ La sostenibilidad es usar los recursos de manera responsable para cuidar el plan
 2. Social.
 3. Económica.
 
-   < ONU
+< ONU
